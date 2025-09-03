@@ -1,48 +1,27 @@
-<div align="center">
-  <br />
-    <a href="https://www.youtube.com/watch?v=iYOz165wGkQ" target="_blank">
-      <img src="public/readme/hero.webp" alt="Project Banner">
-    </a>
-  <br />
+## AI RESUME ANALYZER
 
-  <div>
-    <img alt="Static Badge" src="https://img.shields.io/badge/React-4c84f3?style=for-the-badge&logo=react&logoColor=white">
-        <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="TypeScript" />
-    <img alt="Static Badge" src="https://img.shields.io/badge/Puter.js-181758?style=for-the-badge&logoColor=white">
-  </div>
+An AI-powered Resume Analyzer with React, React Router, and Puter.js! Implement seamless auth, upload and store resumes, and match candidates to jobs using smart AI evaluations. Get custom feedback and ATS scores tailored to each listing—all wrapped in a clean, reusable UI.
 
-  <h3 align="center">AI Resume Analyzer</h3>
+## Demo
+<img width="1366" height="768" alt="1" src="https://github.com/user-attachments/assets/fecb50a1-d4d5-40af-a4ba-5cf11c0646ed" />
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/watch?v=XUkNR-JfHwo" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
-</div>
+<img width="1366" height="768" alt="2" src="https://github.com/user-attachments/assets/9990208f-ac87-4e24-8375-52de925c636d" />
 
-## 📋 <a name="table">Table of Contents</a>
+<img width="1366" height="768" alt="3" src="https://github.com/user-attachments/assets/5b54ad6a-196c-451f-874a-d7ab3e357a32" />
 
-1. ✨ [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Assets](#links)
-6. 🚀 [More](#more)
+<img width="1366" height="768" alt="4" src="https://github.com/user-attachments/assets/1e36ab16-b2ba-467a-abf8-26736b05f443" />
 
-## 🚨 Tutorial
+<img width="1366" height="768" alt="5" src="https://github.com/user-attachments/assets/9dcaa395-ee8a-4049-8357-8552be5e9afa" />
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
+<img width="1366" height="768" alt="6" src="https://github.com/user-attachments/assets/8112d158-9656-416a-9d5e-a8c73a6dd476" />
 
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
+<img width="1366" height="768" alt="7" src="https://github.com/user-attachments/assets/d3b5152a-19f3-42c9-8afc-01e35ebae0d4" />
 
-<a href="https://www.youtube.com/watch?v=iYOz165wGkQ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+<img width="1366" height="768" alt="8" src="https://github.com/user-attachments/assets/e7cae1e1-44b8-4621-b87d-155484f4166a" />
 
-## <a name="introduction">✨ Introduction</a>
+<img width="1366" height="768" alt="9" src="https://github.com/user-attachments/assets/9275ec32-95be-4780-82b3-a4985b88c9aa" />
 
-Build an AI-powered Resume Analyzer with React, React Router, and Puter.js! Implement seamless auth, upload and store resumes, and match candidates to jobs using smart AI evaluations. Get custom feedback and ATS scores tailored to each listing—all wrapped in a clean, reusable UI.
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **50k+** members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+---
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -115,21 +94,3 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
-## <a name="links">🔗 Assets</a>
-
-Assets and snippets used in the project can be found in the **[video kit](https://jsm.dev/resumind-kit)**.
-
-<a href="https://jsm.dev/resumind-kit" target="_blank">
-  <img src="public/readme/videokit.webp" alt="Video Kit Banner">
-</a>
-
-## <a name="more">🚀 More</a>
-
-**Advance your skills with Next.js Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
-detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://jsm.dev/resumind-courses" target="_blank">
-  <img src="public/readme/jsmpro.webp" alt="Project Banner">
-</a>
