@@ -1,8 +1,8 @@
-## AI RESUME ANALYZER
+## AI RESUME ANALYZER 🤖📄
 
 An AI-powered Resume Analyzer with React, React Router, and Puter.js! Implement seamless auth, upload and store resumes, and match candidates to jobs using smart AI evaluations. Get custom feedback and ATS scores tailored to each listing—all wrapped in a clean, reusable UI.
 
-## Demo
+## <a name="tech-stack">📷 Project Screenshots</a>
 <img width="1366" height="768" alt="1" src="https://github.com/user-attachments/assets/fecb50a1-d4d5-40af-a4ba-5cf11c0646ed" />
 
 <img width="1366" height="768" alt="2" src="https://github.com/user-attachments/assets/9990208f-ac87-4e24-8375-52de925c636d" />
